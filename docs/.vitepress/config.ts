@@ -67,6 +67,7 @@ export default defineConfig({
             link: "/python-packaged-applications",
           },
           { text: "Android applications", link: "/android-analysis" },
+          { text: "WHOOP sync investigation", link: "/whoop-sync-investigation" },
           { text: "Apple applications", link: "/apple-application-analysis" },
           { text: "Desktop installations", link: "/desktop-applications" },
           { text: "Firmware", link: "/firmware-analysis" },
