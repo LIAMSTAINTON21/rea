@@ -45,6 +45,9 @@ See [installation and setup](./installation.md) for requirements and configurati
 
 For runtime instrumentation, see the [Frida guide](./frida-instrumentation.md).
 
+For a wearable investigation using Android code and recorded Bluetooth traffic,
+see [Investigate a WHOOP sync](./whoop-sync-investigation.md).
+
 ## Choose a guide
 
 | Task                                                | Guides                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
